@@ -1,8 +1,49 @@
 
-/* Styling for nav bar elements */
+/* Custom styling for nav bar elements */
 .navbar {
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+/* Custom styling for logo container and font */
+.navbar-brand {
+    background-color: aqua;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 12rem;
+    padding-left: 4rem;
+    font-size: 2rem;
+    font-weight: 600;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+
+/* Custom styling for navbar container */
+.container-fluid {
+    padding-left: 0;
+    padding-right: 4rem;
+}
+
+/* Custom navbar background */
+.bg-body-tertiary {
+    background-color: black !important;
+}
+
+/* Custom styling for nav link text*/
+.nav-link {
+    color: aqua;
+    border-bottom: 2px solid aqua;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    padding-bottom: .3rem !important;
+    font-weight: 500;
+}
+.nav-link:hover {
+    color: white;
+    border-bottom: 2px solid white ;
+}
+/*  */
+.nav-item {
 }
 
 .my-5 {
@@ -12,16 +53,21 @@
 .me-auto {
     margin-right: 0 !important;
     margin-left: auto !important;
+    gap: 1rem;
 }
 .container {
+    display: flex;
     max-width: 100%;
     height: 20rem;
     margin-left: 0;
     margin-right: 0 !important;
-    background-size: contain;
-    background-image: url(../Images/circuit-board-high-tech-technology-background-tex-2022-12-16-04-16-49-utc.jpg);
+    background-size: cover;
+    background-position: center;
+    background-image: url(../Images/circuit-board-high-tech-technology-background-tex-2022-12-16-04-16-49-utc-2.jpg);
     background-repeat: no-repeat;
 }
+
+
 
 .p-5 {
     padding: 0 !important;
