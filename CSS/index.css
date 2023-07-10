@@ -1,0 +1,28 @@
+
+/* Styling for nav bar elements */
+.navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.my-5 {
+    margin-top: 0 !important;
+}
+
+.me-auto {
+    margin-right: 0 !important;
+    margin-left: auto !important;
+}
+.container {
+    max-width: 100%;
+    height: 20rem;
+    margin-left: 0;
+    margin-right: 0 !important;
+    background-size: contain;
+    background-image: url(../Images/circuit-board-high-tech-technology-background-tex-2022-12-16-04-16-49-utc.jpg);
+    background-repeat: no-repeat;
+}
+
+.p-5 {
+    padding: 0 !important;
+}
