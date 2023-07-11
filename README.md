@@ -16,18 +16,18 @@ The homepage contain snippets of all the content on the page. You can visit othe
 
 On the header at the top of the page, there's a logo ("Emmanuel") at the top left corner that can take you back to the homepage from anywhere you are on the website.
 
-![alt Logo](./images/Home%20button.png)
+![alt Logo](./images/Home%20button%2023.14.04.png)
 
 There are four navigation links that take you to other parts of the website. On hover, the links turn white.
 
-![alt Navigation](./images/Nav%20links.png)
+![alt Navigation](./images/Nav%20links%2023.14.04.png)
 
 From the home page, you can view my works displayed as cards just below the hero area. You can also click them to funnel to the desired project.
 
-![alt Project Cards](./images/Project%20Cards.png)
+![alt Project Cards](./images/Project%20Cards%2023.14.04.png)
 
-Here's the link to the portfolio:
-https://github.com/etkom/emmanuel-bootsrap-portfolio
+Here's the link to the repository:
+https://github.com/etkom/emmanuel-bootstrap-portfolio
 
 and the link to the live site:
 https://etkom.github.io/emmanuel-bootstrap-portfolio/
