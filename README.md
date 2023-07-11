@@ -27,10 +27,10 @@ From the home page, you can view my works displayed as cards just below the hero
 ![alt Project Cards](./images/Project%20Cards.png)
 
 Here's the link to the portfolio:
-https://github.com/etkom/Emmanuel-Bootsrap-Portfolio
+https://github.com/etkom/emmanuel-bootsrap-portfolio
 
 and the link to the live site:
-
+https://etkom.github.io/emmanuel-bootstrap-portfolio/
 
 ## Credits
 
