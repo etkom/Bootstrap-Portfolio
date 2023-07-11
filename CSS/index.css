@@ -1,4 +1,7 @@
 
+body {
+    background-color: black !important;
+}
 
 /* Custom styling for nav bar elements */
 .navbar {
@@ -9,8 +12,8 @@
 /* Custom styling for logo container and font */
 .navbar-brand {
     background-color: aqua;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
     padding-right: 12rem;
     padding-left: 4rem;
     font-size: 2rem;
@@ -94,22 +97,102 @@
 /* Styling for titles below hero section */
 .section-title {
     word-break: break-all;
-    text-align: right;
     padding-right: 20px;
+    text-align: right;
     border-right: 3px solid #363636;
-    border-color: aqua;
+    border-color: #363636;
+    color: #363636;
+    margin-top: 1rem;
 
 }
 
 /* Styling for row container */
-.row {
-    /* margin: 0 2rem 2rem 2rem; */
+/* .row {
+    margin: 1rem;
 
+} */
+
+/* Custom styling for BlendIn work card */
+.col-lg-10 .card {
+    height: 300px !important;
+    border: 2px solid aqua;
+    border-radius: 0;
+    background-image: url(../Images/dark-blue-gradient-smooth-abstract-background-hor-2023-05-23-05-20-53-utc.jpg);
 }
 
-.col-lg-10 .card .card-body {
-    background-image: ;
+/* Styling for other work cards */
+.col-lg-5 .card {
+    border: 2px solid aqua;
+    border-radius: 0;
 }
+
+/* Bg image for End child food poverty project */
+#End {
+    background-image: url(../Images/End-child-food-poverty.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* Bg image for National rail card */
+#National {
+    background-image: url(../Images/National-rail.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+
+/* Bg image for IFA */
+#IFA {
+    background-image: url(../Images/IFA-Dataflow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+
+/* Bg image for Woolroom */
+#Woolroom {
+    background-image: url(../Images/Woolroom.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+
+/* Styling for Card Title */
+.card-title {
+    font-size: 1rem;
+    color: aqua
+}
+
+/* Styling for card paragraph text */
+.card-text {
+    font-size: .5rem;
+    color: white;
+}
+
+/* Styling for card text block */
+.text-container {
+    position: absolute;
+    left: 0;
+    bottom: 10%;
+    width: 14rem;
+    padding: .5rem;
+    background-color: black;
+}
+
+.card {
+    margin: 1rem;
+}
+
+/*  */
+.col-lg-5 .card {
+    max-width: ;
+    height: 200px;
+    padding: 
+}
+
+
+
 
 
 
